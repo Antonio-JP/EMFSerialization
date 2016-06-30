@@ -32,8 +32,8 @@
 		<version>2.11.0-v20150123-0347</version>
 	</dependency>
     <dependency>
-    	<groupId>miso</groupId>
-    	<artifactId>emf.serialization</artifactId>
+    	<groupId>miso.pastor</groupId>
+    	<artifactId>serialization</artifactId>
     	<version>0.0.1-SNAPSHOT</version>
 	</dependency>
   </dependencies>
